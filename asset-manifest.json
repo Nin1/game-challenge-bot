@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/game-challenge-bot/static/js/main.13cd01d7.chunk.js",
+    "main.js.map": "/game-challenge-bot/static/js/main.13cd01d7.chunk.js.map",
+    "runtime-main.js": "/game-challenge-bot/static/js/runtime-main.513bee7f.js",
+    "runtime-main.js.map": "/game-challenge-bot/static/js/runtime-main.513bee7f.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/game-challenge-bot/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.d9335dfa.chunk.js": "/game-challenge-bot/static/js/2.d9335dfa.chunk.js",
+    "static/js/2.d9335dfa.chunk.js.map": "/game-challenge-bot/static/js/2.d9335dfa.chunk.js.map",
+    "index.html": "/game-challenge-bot/index.html",
+    "precache-manifest.76909959b9deca7761e6153019332ffe.js": "/game-challenge-bot/precache-manifest.76909959b9deca7761e6153019332ffe.js",
+    "service-worker.js": "/game-challenge-bot/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/game-challenge-bot/static/css/2.829c9cb5.chunk.css.map",
+    "static/js/2.d9335dfa.chunk.js.LICENSE.txt": "/game-challenge-bot/static/js/2.d9335dfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.513bee7f.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.d9335dfa.chunk.js",
+    "static/js/main.13cd01d7.chunk.js"
+  ]
+}
