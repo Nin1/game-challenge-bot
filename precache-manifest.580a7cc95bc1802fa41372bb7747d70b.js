@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3bda496d4cebd41bbd9b62ce36dbd8a4",
+    "revision": "12ddaceefe2cf1c369c8fb2f27b064f5",
     "url": "/game-challenge-bot/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game-challenge-bot/static/js/2.d9335dfa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1177508aa09fbaeed5e5",
-    "url": "/game-challenge-bot/static/js/main.38b44b41.chunk.js"
+    "revision": "afd8027358486fab983e",
+    "url": "/game-challenge-bot/static/js/main.61b23a95.chunk.js"
   },
   {
     "revision": "5cb1f9e89e088102a1cf",
